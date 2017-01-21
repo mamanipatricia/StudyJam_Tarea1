@@ -25,4 +25,4 @@ Dentro de Android Studio:
 
 Captura
 ------
-![image](captura.png)
+![image](images/captura.png)
