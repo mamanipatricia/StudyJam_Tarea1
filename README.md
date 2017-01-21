@@ -22,4 +22,4 @@ Dentro de Android Studio:
  - Seleccionas la ruta donde hiciste el clone del proyecto.
  - Build --> Rebuild Project
  - Run
-
+ [image]('images/captura.jpg')
